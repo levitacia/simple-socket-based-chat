@@ -10,7 +10,7 @@
 Есть команда послать сообщение конкретному пользователю (@senduser Vasya).
 Программа работает по протоколу TCP
 
-*ENG**
+**ENG**
 
 The user are the client. There is no user on the server. The server is in charge of forwarding messages between clients.
 
